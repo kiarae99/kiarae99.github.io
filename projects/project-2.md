@@ -2,24 +2,21 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
+title: HHSAA Paddling States
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2017-02-04
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Outrigger Paddling
+  - High School
+  - Sports
+summary: My team qualified two years in a row for the Varsity Mix States Paddling Race.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/DSC01887.JPG">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Pearl City High is one of the underdog schools for Outrigger Paddling. A lot of the students there do not paddle because they are not as close to the water as most schools are. Prior to qualifying in 2016, Pearl City High School's Paddling team did not see the States race in over 2 years. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+In 2016, we had both the Varisty Boys and the Varsity Mix qualify. Although in 2017, all 3 teams were on the path to qualifying, both the Varsity Girls and the Varsity Boys team got disqualified in the OIA Championships. The Varsity Mix team was made up of 3 boys from the Varsity Boys team and 3 girls from the Varsity Girls team, all 6 of us were sad and mad that we got disqualified, but we put that distraction on the side and qualified as a Mix team. 
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Both years, I was on the qualifying team. I raced in every seasoned race, as well as each round of States. 
