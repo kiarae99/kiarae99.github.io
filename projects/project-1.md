@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/air rifkery.jpeg
 title: HHSAA Air Rifle States
-permalink: projects/vacay
+permalink: projects/air_rifle
 # All dates must be YYYY-MM-DD format!
 date: 2015-10-27
 labels:
