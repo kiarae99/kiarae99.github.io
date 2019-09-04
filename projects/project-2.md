@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/DSC01887.JPG
 title: HHSAA Paddling States
-permalink: projects/vacay
+permalink: projects/paddling
 # All dates must be YYYY-MM-DD format!
 date: 2017-02-04
 labels:
