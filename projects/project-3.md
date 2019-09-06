@@ -1,20 +1,19 @@
 ---
 layout: project
 type: project
-image: images/kamamalahoe.jpg
-title: HCRA Paddling
+image: 
+title: Helping Hand
 permalink: projects/paddling_club
 # All dates must be YYYY-MM-DD format!
 date: 2017-08-05
 labels:
-  - Outrigger Paddling
-  - Club
-  - Sports
-summary: My team qualified two years in a row for States
+  - Baby Sitting
+  - Responsibility
+summary: I have been babysitting for 10 years now. I have watched children from the ages of 6 months to 10 years old. 
 ---
 
-<img class="ui medium right floated rounded image" src="../images/kamamalahoe.jpg">
+<img class="ui medium right floated rounded image" src="../">
 
-My Junior year of High School, I joined an Outrigger Paddling club, Ka Mamalahoe. I joined because my High School hired another coach, who also happened to coach a club. I followed him because he needed girl paddlers. I raced for Ka Mamalahoe during Na Opio Season, Pre-Season, as well as Summer Regatta Season. The 2 years I paddled for him, I was a part of the 16s' Girls and 18s' Mix in 2016 and the 18s' Girls in 2017. Both years, I qualified with the Girls team. If the 18s' Mix was a race in States, our crew would have qualified because we were in the top 2 for our Association Hui Waa
+From the time I was 10 years old, I have been babysitting children. At first, it started out as just watching my sister's kids when they wanted to go out and relax for a night. After watching their kids for so long, their friends would ask if I could watch their kids. 
 
-It was surprising to qualify because the majority of us had just started paddling for club, although we raced for our High Schools, club is a lot of challenging. 
+Once I turned 16 and got my license, the one night of babysitting, soon turned into babysitting for up to two weeks. Although I was on the younger side, I had to learn responsibility because I was no longer responsible for myself but for kids younger than me and that is a big responsibility. 
