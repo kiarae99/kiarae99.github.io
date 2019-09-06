@@ -13,7 +13,6 @@ labels:
 summary: I volunteer with Bank of Hawaii's volunteer program, Live Kokua. 
 ---
 
-<img class="ui medium right floated rounded image" src="../images/live kokua.jpg">
 <img class="ui medium left floated rounded image" src="../images/heeia.jpg">
 
 I have been volunteering with Live Kokua for the past two years. My sister is an employee for Bank of Hawaii and signs me up for as much days we can make. Every month Live Kokua volunteers with Paepae o Heeia, which is a program to restore the Loi Heeia Loi patch. Every month they have us doing different jobs. We have rebuilt the Kuapā, or the rock wall, and also chopped down the mangroves which is an invasive species.
