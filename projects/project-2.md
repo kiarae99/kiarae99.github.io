@@ -19,4 +19,4 @@ Pearl City High is one of the underdog schools for Outrigger Paddling. A lot of 
 
 In 2016, we had both the Varisty Boys and the Varsity Mix qualify. Although in 2017, all 3 teams were on the path to qualifying, both the Varsity Girls and the Varsity Boys team got disqualified in the OIA Championships. The Varsity Mix team was made up of 3 boys from the Varsity Boys team and 3 girls from the Varsity Girls team, all 6 of us were sad and mad that we got disqualified, but we put that distraction on the side and qualified as a Mix team. 
 
-Both years, I was on the qualifying team. I raced in every seasoned race, as well as each round of States. 
+Both years, I was on the qualifying team as well as one of the Team Captains. As a Team Captain, it was my job to lead stretches and make sure that when we are in the canoe away from our coaches, that everyone is practicing and not playing around. As a seat 2, I would constantly be pushing whoever sat in seat 1 to push as hard as they could. Everytime they slowed down, I would encourage them that we are almost there and theres just one small push left.
