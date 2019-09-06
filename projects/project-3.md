@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: 
+image: images/IMG_1926.JPG
 title: Helping Hand
-permalink: projects/paddling_club
+permalink: projects/helping_hand
 # All dates must be YYYY-MM-DD format!
 date: 2017-08-05
 labels:
@@ -12,7 +12,7 @@ labels:
 summary: I have been babysitting for 10 years now. I have watched children from the ages of 6 months to 10 years old. 
 ---
 
-<img class="ui medium right floated rounded image" src="../">
+<img class="ui medium right floated rounded image" src="../images/IMG_1926.JPG">
 
 From the time I was 10 years old, I have been babysitting children. At first, it started out as just watching my sister's kids when they wanted to go out and relax for a night. After watching their kids for so long, their friends would ask if I could watch their kids. 
 
