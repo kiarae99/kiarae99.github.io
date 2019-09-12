@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/babysitting.jpg
+image: images/babysitting.png
 title: Helping Hand
 permalink: projects/helping_hand
 # All dates must be YYYY-MM-DD format!
