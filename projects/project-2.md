@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/DSC01887.JPG
+image: images/DSC01887.jpg
 title: Outrigger
 permalink: projects/paddling
 # All dates must be YYYY-MM-DD format!
