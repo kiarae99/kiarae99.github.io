@@ -13,7 +13,7 @@ labels:
 summary: My team qualified two years in a row for the Varsity Mix States Paddling Race.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/DSC01887.JPG">
+<img class="ui medium right floated rounded image" src="../images/DSC01887.jpg">
 
 Pearl City High is one of the underdog schools for Outrigger Paddling. A lot of the students there do not paddle because they are not as close to the water as most schools are. Prior to qualifying in 2016, Pearl City High School's Paddling team did not see the States race in over 2 years. 
 
