@@ -29,3 +29,5 @@ The Parking my Car app will allow users to mark where they can park their car an
 
 # Beyond the Basics
 - Google Maps api
+
+Authors: Kiara Eltagonde and Ryan Ell
