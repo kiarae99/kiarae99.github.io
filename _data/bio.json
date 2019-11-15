@@ -82,6 +82,19 @@
       ]
     }
   ],
+    "work": [
+    {
+      "company": "Guess Factory",
+      "position": "Sales Associate",
+      "website": "",
+      "startDate": "2019-10-10",
+      "endDate": "Present",
+      "summary": "Retail Sales Associate",
+      "highlights": [
+        ""
+      ]
+    },
+  ],
   "volunteer": [
     {
       "organization": "Live Kokua",
