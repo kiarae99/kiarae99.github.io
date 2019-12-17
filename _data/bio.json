@@ -57,7 +57,10 @@
       "name": "Languages",
       "level": "",
       "keywords": [
-        "Java"
+        "Java",
+        "CSS",
+        "HTML",
+        "Javascript"
       ]
     },
     {
@@ -86,7 +89,7 @@
     {
       "company": "Guess Factory",
       "position": "Sales Associate",
-      "website": "",
+      "website": "https://www.guessfactory.com/en/",
       "startDate": "2019-10-10",
       "endDate": "Present",
       "summary": "Work register, floor, stock room, etc",
@@ -94,7 +97,7 @@
         "Knowing the products",
         "Be able to multi-task"
       ]
-    },
+    }
   ],
   "volunteer": [
     {
