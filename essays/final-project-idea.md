@@ -5,6 +5,7 @@ title: "314 Sum Up"
 date: 2019-12-18
 labels:
   - Software Engineering
+  - Final Exam
 ---
 
 This past semester we have learned a lot about software engineering. To get a good understanding of software
