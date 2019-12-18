@@ -1,34 +1,31 @@
 ---
 layout: essay
 type: essay
-title: "Final Project Idea"
-date: 2019-11-05
+title: "314 Sum Up"
+date: 2019-12-18
 labels:
   - Software Engineering
-  - Meteor
 ---
 
-# Overview
-## Problem:
-People don't know where there is free parking close to campus. The Zone 20 parking structure fills up too early for some students, or they do not want to purchase day passes, permits, or carpool passes. 
-
-## Solution:
-The Parking my Car app will allow users to mark where they can park their car and comment the times when they can normally find parking. Users can also put about how long it takes them to get to campus, if they need to walk, catch the Manoa Shuttle, or theBus.
-
-# Mockup Page Ideas
-* Landing Page
-* Parking Page
-* Admin Page
-* User Page
-
-# Case Ideas
-- User goes to landing page which contains a map with pins for different parking areas
-- User clicks on an area where they parked to mark it, then fill out the information (Times to park and how to get to campus)
-- User clicks on a a pin to see the information on a location
-- Admins can edit/remove parking locations based on users feedback 
-
-# Beyond the Basics
-- Google Maps api
-
-# Authors
-Kiara Eltagonde and Ryan Ell
+This past semester we have learned a lot about software engineering. To get a good understanding of software
+ engineering, you need to understand the smaller stuff first and then apply everything into one.
+ 
+##Using GitHub
+We have been using the Github platform for our Configuration Management portion throughout this semester. Finding a good
+ program that you like to use to organize your projects is one of the first things needed in software engineering
+ . Without GitHub, you can still write your code, but the perks of it is being able to see each commit to the file
+ . When an error pops up, you can see the change in the program from the current one to the one before the error. 
+ 
+ ### Groups and Programming
+ One thing I really loved about using GitHub was that it was so easy to use. It made working in groups so much easier
+  because we didn't need to be in the same room as each other to get things done. It also helps show who's holding up
+   their end of the workload. 
+ 
+##React
+User Interface Frameworks are very important to know when doing software engineering. This allows programmers to make
+ their program more appealing and organized. There are so many components that you can utilize to turn something from
+  average to extraordinary. This is the 21st century, where everything is modernized. People don't want to be looking
+   at something that looks like it belongs in the 1900s. 
+   
+I could go on and on about different aspect of software engineering because there is a lot. But for now, just stick
+ to the basics and learn it one by one.
