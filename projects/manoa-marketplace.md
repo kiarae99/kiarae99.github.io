@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/uh.png
-title: Manoa MarketPlace
+title: Manoa Marketplace
 permalink: projects/manoa-marketpalce
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-07
