@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/live kokua.jpg
+image: images/uh.png
 title: Manoa MarketPlace
 permalink: projects/manoa-marketpalce
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,7 @@ labels:
 summary: Creating a final project for Software Engineering 
 ---
 
-<img class="ui medium right floated rounded image" src="../images/heeia.jpg">
+<img class="ui medium centered image" src="../images/quickStart.png">
 
 Manoa Marketplace is a Craigslist for students, faculty, and staff at the University of Hawaii at Manoa. My group and
  I created this web application as a way to buy things within the UHM community. On Craigslist, there are so many
