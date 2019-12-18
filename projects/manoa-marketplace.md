@@ -5,7 +5,7 @@ image: images/uh.png
 title: Manoa Marketplace
 permalink: projects/manoa-marketpalce
 # All dates must be YYYY-MM-DD format!
-date: 2019-09-07
+date: 2019-12-19=8
 labels:
   - Meteor
   - Software Engineering
